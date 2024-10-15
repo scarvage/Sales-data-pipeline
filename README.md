@@ -8,7 +8,7 @@ The system is designed to handle sales data files uploaded from multiple regions
 
 ## Architecture
 
-![Architecture Diagram](Screenshot 2024-10-16 at 1.36.57 AM.png)
+![Architecture Diagram](Screenshot.png)
 
 The architecture consists of the following components:
 
